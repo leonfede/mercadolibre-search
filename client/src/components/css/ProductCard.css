@@ -1,0 +1,34 @@
+#card {
+  height: 375px;
+  width: 256px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#productTitle {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.menuInfo {
+  position: absolute;
+  top: 55px;
+  right: 8px;
+}
+
+#imageContainer {
+  background-color: rgba(255, 255, 255, 1);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+#productImage {
+  max-height: 256px;
+  max-width: 256px;
+  height: 256px;
+  padding: auto;
+  width: auto;
+}
